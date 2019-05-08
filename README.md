@@ -1,2 +1,4 @@
 # hello-world
-a short description
+
+
+Hi my name is Kyle Lawson! I am a college student attending B
